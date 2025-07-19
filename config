@@ -1,0 +1,16 @@
+# theme
+theme = matrix
+palette = 1=#E83151
+palette = 5=#663F46
+palette = 9=#E83151
+palette = 13=#663F46
+
+# font
+font-family = ["DaddyTimeMono Nerd Font"]
+font-size = 16.0
+
+# window
+gtk-titlebar = false
+background-opacity = 0.8
+window-decoration = false
+
